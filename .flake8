@@ -1,0 +1,5 @@
+[flake8]
+max-line-length = 120
+max-complexity = 3
+exclude = venv/*
+application-import-names = xml_problem
